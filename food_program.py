@@ -1,4 +1,5 @@
-# Project:          Module 3 - Example 3
+# MODIFY FOR GITHUB 
+# Project:          Module 3 - Example 3 for git repo
 # Description:      Gets the macronutrients for a food item and daily calories intake goal as user input
 #                   Creates a food item object; prints its state & summary information for all food item objects             
 # Depends on:       food_item3
